@@ -1,0 +1,54 @@
+
+
+.header{
+    background-color: #282c34;
+    padding: 20px;
+    text-align: center;
+    color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.link{
+    margin: 0 10px;
+    color: rgb(159, 42, 12);
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.link:hover{
+    color: rgb(255, 255, 255);
+}
+.banner{
+      background-image:url(https://img.freepik.com/free-photo/top-view-colorful-paper-sheets_23-2148187891.jpg?t=st=1727161061~exp=1727164661~hmac=6ad25b95caab8a19c75605e282d65ee07acbb9db8c3a16859200f118cb3468c2&w=900); 
+    /* background-color: cadetblue; */
+    width: 100%;
+    height: 525px;
+    margin: 0;
+    margin-top: 0;
+    padding: 20px;
+    object-fit: cover;
+}
+.para{
+    width: 300px;
+    height: 250px;
+    padding: 40px;
+}
+.button{
+    
+    padding: 10px 20px;
+    background-color: darkgreen;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.button:hover{
+    background-color: #3e8e41;
+}
+.banner p{
+    font-size: 30px;
+    padding: 10px 20px;
+}
